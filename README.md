@@ -1,6 +1,7 @@
 # muthu.me
 
 GatsbyJS starter for a personal website.
+https://blissful-ptolemy-983f31.netlify.com/
 
 ## Development
 
